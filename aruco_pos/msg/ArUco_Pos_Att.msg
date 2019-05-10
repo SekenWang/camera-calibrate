@@ -1,0 +1,20 @@
+Header header_cur
+Header header_pre
+Header header_pre2
+
+string name
+
+bool Max_Limit_Exceeded_cur
+bool aruco_is_detect_cur
+int64 aruco_total_num_cur
+geometry_msgs/Pose aruco_local_cur
+
+bool Max_Limit_Exceeded_pre
+bool aruco_is_detect_pre
+int64 aruco_total_num_pre
+geometry_msgs/Pose aruco_local_pre
+
+bool Max_Limit_Exceeded_pre2
+bool aruco_is_detect_pre2
+int64 aruco_total_num_pre2
+geometry_msgs/Pose aruco_local_pre2
